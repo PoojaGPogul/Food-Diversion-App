@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activity.events">
+    <!--   <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/linux_app_icon"
+        android:title="action_favorite"
+        app:showAsAction="ifRoom"/>
+       !-->
+
+    <item
+        android:id="@+id/contacts_id"
+        android:title="Contact Us"
+        android:orderInCategory="101">
+    </item>
+
+</menu>
